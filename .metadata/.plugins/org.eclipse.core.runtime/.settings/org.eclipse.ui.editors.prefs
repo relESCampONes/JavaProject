@@ -1,0 +1,11 @@
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.SelectionBackground=0,0,0
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+AbstractTextEditor.Color.SelectionForeground=230,230,230
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+comment_stylePreferences=NONE
+comment_text=false
+currentLineColor=255,244,244
+eclipse.preferences.version=1
+linked.focus.color=0,128,192
+spellingEnabled=false
